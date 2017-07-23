@@ -3,7 +3,7 @@ A Docker image of [Sublist3r](https://github.com/aboul3la/Sublist3r), for enumer
 
 ## Usage:
 
-    docker run --rm hypnza/sublist3r -d <hostname>
+    docker run --rm hypnza/sublist3r -d <domain>
     
 ## Example:
 
